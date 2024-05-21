@@ -1,2 +1,2 @@
 <h1>Fake chatbot</h1>
-chatbot-bynomanpervaiz.netlify.app
+https://chatbot-bynomanpervaiz.netlify.app
