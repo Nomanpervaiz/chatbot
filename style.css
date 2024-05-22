@@ -26,8 +26,33 @@ body {
   outline: none;
   border: none;
   box-shadow: 0px 0px 2px black;
+ display: block;
   background-color: rgb(255, 255, 255);
+  /* background-color: blue; */
 }
+.my-input1{
+  padding: 20px 0px;
+  border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
+  outline: none;
+  border: none;
+  box-shadow: 0px 0px 2px black;
+  display: none;
+  background-color: rgb(255, 255, 255);
+  /* background-color: red; */
+}
+.my-input2{
+  padding: 20px 0px;
+  border-end-end-radius: 10px;
+  border-end-start-radius: 10px;
+  outline: none;
+  border: none;
+  box-shadow: 0px 0px 2px black;
+  display: none;
+  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(238, 255, 0); */
+}
+
 .heading {
   width: 100%;
 }
@@ -60,6 +85,7 @@ body {
     justify-content: end;
     align-items: end;
     height: 470px;
+    
 
 }
 #list {
@@ -132,7 +158,7 @@ body {
     font-size: 25px ;
     display: block;
   }
-  
+
 ::placeholder{
     font-size: 18px ;
 }
